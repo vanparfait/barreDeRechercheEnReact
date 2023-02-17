@@ -1,0 +1,23 @@
+.container {
+  width: 700px;
+  height: 300px;
+  margin: 0 auto;
+
+  margin-top: 50px;
+}
+
+.searchBar {
+  color: red;
+  padding: 2rem 1rem;
+}
+.searchBar input {
+  font-size: 1.2rem;
+}
+.searchResults {
+  width: 100%;
+}
+.searchResult {
+  margin: 0.4rem 1rem;
+  padding: 0.4rem;
+  border: 1px solid darkgray;
+}
